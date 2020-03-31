@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         addbtn=findViewById(R.id.add);
     }
 
-    public void callAddInfo(){
+    public void onClick(View view){
 
     }
 
